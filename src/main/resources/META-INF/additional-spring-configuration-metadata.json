@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "sgf.brewery.apiHost",
+      "type": "java.lang.String",
+      "description": "Description for sgf.brewery.apiHost."
+  }
+] }
